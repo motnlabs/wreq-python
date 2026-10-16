@@ -2567,7 +2567,6 @@ dependencies = [
 [[package]]
 name = "wreq-util"
 version = "0.2.0"
-source = "git+https://github.com/0x676e67/wreq-util?rev=5715529002738f46eea86a7271f918f9374d3582#5715529002738f46eea86a7271f918f9374d3582"
 dependencies = [
  "brotli 9.0.0",
  "chromium-roots",
