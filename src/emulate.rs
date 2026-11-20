@@ -56,6 +56,7 @@ define_enum!(
     Chrome153,
     Chrome154,
     Chrome155,
+    Chrome157,
 
     Edge101,
     Edge122,
